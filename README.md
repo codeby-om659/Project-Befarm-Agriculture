@@ -1,4 +1,4 @@
-# 🌾 Mandi Procurement System
+#  BE-FARM:🌾 Mandi Procurement System
 
 A FastAPI-based web application backend designed to streamline agricultural mandi operations for farmers and administrators. The system manages farmer registration, OTP-based login, crop slot booking, and admin management.
 
