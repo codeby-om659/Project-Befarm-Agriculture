@@ -12,7 +12,7 @@ A FastAPI-based web application backend designed to streamline agricultural mand
 <p align="center">
   <strong>Right TiME, Right PRICE, Fair Traide</strong><br>
   <em>Remove Middleman</em>
-</p>
+</p
 
 ---
 ## 🚀 Features
