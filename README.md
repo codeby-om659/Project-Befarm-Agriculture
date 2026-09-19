@@ -4,7 +4,7 @@ A FastAPI-based web application backend designed to streamline agricultural mand
 
 ---
 <p align="center">
-  <img src="./farmer.png" alt="BE:FARM Banner" width="300%">
+  <img src="./farmer.png" alt="BE:FARM Banner" width="100%">
 </p>
 
 <h1 align="center">BE:FARM 🚨</h1>
