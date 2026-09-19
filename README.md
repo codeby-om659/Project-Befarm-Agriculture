@@ -3,7 +3,18 @@
 A FastAPI-based web application backend designed to streamline agricultural mandi operations for farmers and administrators. The system manages farmer registration, OTP-based login, crop slot booking, and admin management.
 
 ---
+<p align="center">
+  <img src="./farmer.png" alt="BE:FARM Banner" width="300%">
+</p>
 
+<h1 align="center">BE:FARM 🚨</h1>
+
+<p align="center">
+  <strong>Right TiME, Right PRICE, Fair Traide</strong><br>
+  <em></em>
+</p>
+
+---
 ## 🚀 Features
 
 - **Farmer Registration & Management:** Register new farmers with details like Aadhaar, mobile number, and mandi selection.
