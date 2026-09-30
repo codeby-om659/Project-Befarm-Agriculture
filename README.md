@@ -53,7 +53,7 @@ A FastAPI-based web application backend designed to streamline agricultural mand
 
 ---
 
-## 📦 Installation & Setup
+## 📦 Installation & Setups
 
 1. **Clone the repository:**
    ```bash
